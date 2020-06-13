@@ -1,8 +1,8 @@
 {
   "users":[
-    "id": 1, name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz", "image" : "https://steamcdn-a.akamaihd.net/steam/apps/570/ss_d0f973ce376ca5b6c08e081cb035e86ced105fa9.1920x1080.jpg",
-    "id": 2, name": "Veronica Días", "username": "vero", "email": "vero@april.biz", "image" : "https://areajugones.sport.es/wp-content/uploads/2020/03/Half-Life-Alyx-imagen-8.jpg",
-    "id": 3, name": "pez", "username": "sdfdso", "email": "dsfd@april.biz", "image" : "https://okdiario.com/img/2019/08/21/peces-payaso.jpg",
+    "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz", "image" : "https://steamcdn-a.akamaihd.net/steam/apps/570/ss_d0f973ce376ca5b6c08e081cb035e86ced105fa9.1920x1080.jpg",
+    "id": 2, "name": "Veronica Días", "username": "vero", "email": "vero@april.biz", "image" : "https://areajugones.sport.es/wp-content/uploads/2020/03/Half-Life-Alyx-imagen-8.jpg",
+    "id": 3, "name": "pez", "username": "sdfdso", "email": "dsfd@april.biz", "image" : "https://okdiario.com/img/2019/08/21/peces-payaso.jpg",
   ],
   "posts": [
     {
